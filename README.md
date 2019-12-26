@@ -4,6 +4,8 @@ ffmepg-python
 
 [https://github.com/kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python)  
 
+[https://kkroening.github.io/ffmpeg-python/](https://kkroening.github.io/ffmpeg-python/)  
+
 
 ---  
 
@@ -11,7 +13,6 @@ ffmepg-python
 
 ```bash
 pip install ffmpeg-python
-
-# git clone 
+ 
 (pip install -r requirements.txt)
 ```
